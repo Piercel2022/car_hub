@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
+    "axios": "^1.5.1",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
