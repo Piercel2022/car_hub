@@ -137,13 +137,9 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
 
 
-
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@Piercel2022](https://github.com/Piercel2022)
 - Twitter: [@Piercel2022](https://twitter.com/pier_celestin)
