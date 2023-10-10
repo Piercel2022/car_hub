@@ -21,6 +21,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
+![car_hub](https://github.com/Piercel2022/car_hub/assets/98626003/d0e65dbe-e28c-42a2-aa96-b3d00fe2e9e5)
 
 
 # 📖 [car_hub] <a name="about-project"></a>
