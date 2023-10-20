@@ -23,7 +23,7 @@
 - [📝 License](#license)
 
 
-# 📖 [car_hub] <a name="about-project"></a>
+# 📖 car_hub <a name="about-project"></a>
 
 
 
