@@ -27,7 +27,7 @@
 
 
 
-**[car_hub]** is a cutting-edge Next.js web application, dedicated to presenting an exquisite array of car models for you to explore and order. 
+**car_hub** is a cutting-edge Next.js web application, dedicated to presenting an exquisite array of car models for you to explore and order. 
 As you navigate our user-friendly platform, you'll find a meticulously curated selection of cars, each representing the epitome of style, technology, and performance
 
 ## 🛠 Built With <a name="built-with"></a>
